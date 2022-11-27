@@ -1,5 +1,5 @@
-Hi, I’m @ehaabd.
-I’m interested in game development.
-I’m currently learning Blender/Unity.
-I’m looking to collaborate on any video game mod.
-You can reach me on Github.
+Hi, I'm @ehaabd.
+I'm a computer science student, working on game development.
+I'm currently using Blender/Unity, as well as C# in general.
+I'm open to collaborating on any video game modifications.
+You can reach my email address @ehaab14@hotmail.com.
